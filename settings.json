@@ -1,0 +1,7 @@
+{
+  "IgnoreNames": [
+    "Server Manager"
+  ], // Ignore message from these names
+  "BotToken": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN", //Put the Bot token here
+  "MainChannel": 888888888888888888 // Main Channel ID
+}
